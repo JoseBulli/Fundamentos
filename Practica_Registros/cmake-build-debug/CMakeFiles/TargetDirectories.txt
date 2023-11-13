@@ -1,0 +1,3 @@
+C:/Users/joseb/Downloads/Formateo/Prácticas Programación/Fundamentos/Practica_Registros/cmake-build-debug/CMakeFiles/Practica_Registros.dir
+C:/Users/joseb/Downloads/Formateo/Prácticas Programación/Fundamentos/Practica_Registros/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joseb/Downloads/Formateo/Prácticas Programación/Fundamentos/Practica_Registros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
