@@ -1,0 +1,3 @@
+C:/Users/joseb/Desktop/Prácticas Programación/Fundamentos/Practica-VectoresYMatrices/cmake-build-debug/CMakeFiles/Practica_VectoresYMatrices.dir
+C:/Users/joseb/Desktop/Prácticas Programación/Fundamentos/Practica-VectoresYMatrices/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joseb/Desktop/Prácticas Programación/Fundamentos/Practica-VectoresYMatrices/cmake-build-debug/CMakeFiles/rebuild_cache.dir

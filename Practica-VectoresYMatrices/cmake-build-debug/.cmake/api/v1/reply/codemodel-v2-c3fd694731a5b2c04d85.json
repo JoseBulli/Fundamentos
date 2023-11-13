@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Practica_VectoresYMatrices",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Practica_VectoresYMatrices::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practica_VectoresYMatrices-Debug-358c7b3ae2476eb07b24.json",
+					"name" : "Practica_VectoresYMatrices",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/joseb/Desktop/Pr\u00e1cticas Programaci\u00f3n/Fundamentos/Practica-VectoresYMatrices/cmake-build-debug",
+		"source" : "C:/Users/joseb/Desktop/Pr\u00e1cticas Programaci\u00f3n/Fundamentos/Practica-VectoresYMatrices"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

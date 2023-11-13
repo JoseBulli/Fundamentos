@@ -1,0 +1,22 @@
+# ninja log v5
+2	356	7188342370460935	CMakeFiles/Practica_VectoresYMatrices.dir/main.cpp.obj	77090c007f7a51eb
+357	446	7188342371323847	Practica_VectoresYMatrices.exe	bcf32f2006b5e00d
+13	641	7189159277491944	build.ninja	b491d617d9bd57ae
+3	1044	7189159288942614	CMakeFiles/Practica_VectoresYMatrices.dir/main.cpp.obj	77090c007f7a51eb
+1044	1308	7189159291548260	Practica_VectoresYMatrices.exe	bcf32f2006b5e00d
+3	381	7189159998012000	CMakeFiles/Practica_VectoresYMatrices.dir/main.cpp.obj	77090c007f7a51eb
+381	495	7189159999109538	Practica_VectoresYMatrices.exe	bcf32f2006b5e00d
+3	439	7189161828420816	CMakeFiles/Practica_VectoresYMatrices.dir/main.cpp.obj	77090c007f7a51eb
+440	571	7189161829692013	Practica_VectoresYMatrices.exe	bcf32f2006b5e00d
+4	351	7189162529213691	CMakeFiles/Practica_VectoresYMatrices.dir/main.cpp.obj	77090c007f7a51eb
+352	468	7189162530370573	Practica_VectoresYMatrices.exe	bcf32f2006b5e00d
+3	365	7189162734259649	CMakeFiles/Practica_VectoresYMatrices.dir/main.cpp.obj	77090c007f7a51eb
+366	478	7189162735344303	Practica_VectoresYMatrices.exe	bcf32f2006b5e00d
+3	369	7189162983770123	CMakeFiles/Practica_VectoresYMatrices.dir/main.cpp.obj	77090c007f7a51eb
+369	478	7189162984830924	Practica_VectoresYMatrices.exe	bcf32f2006b5e00d
+3	441	7189167008578979	CMakeFiles/Practica_VectoresYMatrices.dir/main.cpp.obj	77090c007f7a51eb
+442	581	7189167009913742	Practica_VectoresYMatrices.exe	bcf32f2006b5e00d
+3	372	7189167303602325	CMakeFiles/Practica_VectoresYMatrices.dir/main.cpp.obj	77090c007f7a51eb
+372	483	7189167304669526	Practica_VectoresYMatrices.exe	bcf32f2006b5e00d
+4	440	7191567128858087	CMakeFiles/Practica_VectoresYMatrices.dir/main.cpp.obj	77090c007f7a51eb
+440	577	7191567130058001	Practica_VectoresYMatrices.exe	bcf32f2006b5e00d
