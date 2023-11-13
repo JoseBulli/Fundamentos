@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PracticasEstructurasCondicionales",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PracticasEstructurasCondicionales::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PracticasEstructurasCondicionales-Debug-fc993d5660b210d01254.json",
+					"name" : "PracticasEstructurasCondicionales",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/joseb/Desktop/Pr\u00e1cticas Programaci\u00f3n/Fundamentos/PracticasEstructurasCondicionales/cmake-build-debug",
+		"source" : "C:/Users/joseb/Desktop/Pr\u00e1cticas Programaci\u00f3n/Fundamentos/PracticasEstructurasCondicionales"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
