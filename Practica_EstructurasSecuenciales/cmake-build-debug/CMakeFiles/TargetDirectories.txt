@@ -1,0 +1,3 @@
+C:/Users/joseb/Desktop/Prácticas Programación/Fundamentos/PracticaEstructurasSecuenciales/cmake-build-debug/CMakeFiles/PracticaEstructurasSecuenciales.dir
+C:/Users/joseb/Desktop/Prácticas Programación/Fundamentos/PracticaEstructurasSecuenciales/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joseb/Desktop/Prácticas Programación/Fundamentos/PracticaEstructurasSecuenciales/cmake-build-debug/CMakeFiles/rebuild_cache.dir
