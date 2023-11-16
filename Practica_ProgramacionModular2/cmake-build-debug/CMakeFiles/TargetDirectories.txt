@@ -1,0 +1,3 @@
+C:/Users/joseb/Downloads/GitKrakenRepos/Fundamentos/Practica_ProgramacionModular2/cmake-build-debug/CMakeFiles/Practica_ProgramacionModular2.dir
+C:/Users/joseb/Downloads/GitKrakenRepos/Fundamentos/Practica_ProgramacionModular2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joseb/Downloads/GitKrakenRepos/Fundamentos/Practica_ProgramacionModular2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
